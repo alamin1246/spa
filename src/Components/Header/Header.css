@@ -1,0 +1,27 @@
+.navbar {
+  background-color: rgb(10, 185, 243);
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  padding: 0 100px;
+  top: 0;
+  z-index: 1;
+}
+
+.navbar h1 {
+  margin-left: 15px;
+  font-size: 40px;
+  color: black;
+  font-family: "Arial;", cursive;
+}
+
+@media screen and (max-width: 660px) {
+  .navbar h1 {
+    margin-left: 15px;
+    font-size: 20px;
+    color: black;
+    font-family: "Arial", cursive;
+  }
+}

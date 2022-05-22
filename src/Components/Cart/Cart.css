@@ -1,0 +1,45 @@
+.cart-container {
+  padding: 20px 15px;
+  position: sticky;
+  top: 0;
+}
+.header-title {
+  font-weight: 600;
+  font-size: 22px;
+  margin-top: 5px;
+  color: rgb(36, 32, 32);
+}
+.lucky-item {
+  display: none;
+}
+.cart-btn {
+  background-color: rgb(108, 120, 233);
+  border: none;
+  padding: 5px 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  transition: all 0.2s;
+}
+.cart-btn:hover {
+  background-color: rgb(182, 171, 231);
+  color: #e5c0c0;
+  font-weight: 600;
+}
+.cart-btn p {
+  margin: 0 auto;
+  padding: 5px;
+}
+.lucky {
+  color: black;
+  text-align: center;
+}
+@media only screen and (max-width: 600px) {
+  .cart-container {
+    position: fixed;
+    top: 150px;
+    right: 0;
+    border-radius: 10px 0 10px 0;
+  }
+}

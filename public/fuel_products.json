@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Diesel Engine Oil",
+    "price": 1200,
+    "weight":"15 Liter",
+    "ratings": 4,
+    "img": "https://5.imimg.com/data5/FP/UQ/MY-2590637/diesel-engine-oil-500x500.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "name": "OMCs pin Petrol",
+    "price": 890,
+    "weight":"10 Liter",
+    "ratings": 5,
+    "img": "https://www.thenews.com.pk/assets/uploads/akhbar/2021-10-10/899070_9399356_petrol_akhbar.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "name": "GASOLINE",
+    "price": 3560,
+    "weight":"40 Liter",
+    "ratings": 4,
+    "img": "https://www.tradeford.com/pimages/l/0/1051840.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "name": "Octane Fuel",
+    "price": 890,
+   "weight":"10 Liter",
+    "ratings": 5,
+    "img": "https://www.fuelfreedom.org/wp-content/uploads/shutterstock_99234395-300x210.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "name": "Visco CNG 20W-50",
+    "price": 430,
+    "weight":"10 Liter",
+    "ratings": 4,
+    "img": "https://www.bp.com/content/dam/bp/country-sites/en_ae/arabia_lubricants/home/products/car-engine-oils/mineral/visco-cng-20w-50-4l.jpg.img.750.medium.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "name": "Prinsol Petrol Engine Oil",
+    "price": 890,
+  "weight":"10 Liter",
+    "ratings": 3,
+    "img": "https://5.imimg.com/data5/DS/QB/MY-37306381/petrol-engine-oil-500x500.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 7,
+    "name": "OTO MOTIV 20W50 SL DYNAMIC PETROL ENGINE OIL",
+    "price": 890,
+    "weight":"10 Liter",
+    "ratings": 4,
+    "img": "http://www.woqod.com/EN/Lubricants/PublishingImages/Pages/OTO%20MOTIV%2020W50%20SL/OTO%20MOTIV%20DYNAMIC%2020W50%20SL-%204L.png",
+    "quantity": 0
+  },
+ 
+  {
+    "id": 8,
+    "name": "Diesel Oil & Filters",
+    "price": 800,
+    "weight":"10 Liter",
+    "ratings": 5,
+    "img": "https://s19533.pcdn.co/wp-content/uploads/2015/12/diesoil.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 9,
+    "name": "Mobil Fuel Oil",
+    "price": 4830,
+    "weight":"4 Liter",
+    "ratings": 4,
+    "img": "https://www.mobil.com/lubricants/-/media/project/wep/shared/mobil-1-image-recommendations/pouring-quart-oil-into-car/pouring-quart-oil-into-car-screen-xl.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 10,
+    "name": "15W40 Synthetic Diesel Engine Oil",
+    "price": 51920,
+    "weight":"649 Liter",
+    "ratings": 5,
+    "img": "https://cdn.shopify.com/s/files/1/0288/5248/products/full-synthetic-15w40-diesel-engine-oil-engine-oil-sinopec-55-gallon-drum-261849_500x.jpg?v=1640803026",
+    "quantity": 0
+  },
+  {
+    "id": 11,
+    "name": "Motorcraft Super Duty Diesel Motor Oil 10W30 5-Quart Jug",
+    "price": 800,
+    "weight":"10 Liter",
+    "ratings": 5,
+    "img": "https://i5.walmartimages.com/asr/fa0abdb0-a67d-4989-a9eb-8a8dfe4702e0.e5c3a57d8fc742a0e051f37c24c268b1.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "quantity": 0
+  },
+  {
+    "id": 12,
+    "name": "Heavy Duty Diesel",
+    "price": 800,
+    "weight":"10 Liter",
+    "ratings": 4,
+    "img": "https://www.countrymark.com/countrymark/portals/0/images/Diesel_Oil_Gallons_and_Pails.jpg",
+    "quantity": 0
+  },
+
+  {
+    "id": 13,
+    "name": "Gasoline Diesel Petrol",
+    "price": 890,
+    "weight":"10 Liter",
+    "ratings": 4,
+    "img": "https://cdn.pixabay.com/photo/2013/08/23/22/07/gasoline-175122_960_720.jpg",
+    "quantity": 0
+  }
+  
+]
